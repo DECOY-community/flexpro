@@ -45,17 +45,17 @@ FLEXPRO is available on both web and mobile platforms, providing flexibility and
 ## Installation
 
 ### Web Version
-1. Clone the repository: `git clone https://github.com/your-repo.git`
-2. Navigate to the web directory: `cd web`
+1. Clone the repository: `git clone https://github.com/DECOY-community/flexpro`
 3. Install dependencies: `npm install`
 4. Start the development server: `npm start`
 
 ### Mobile Version
-1. Clone the repository: `git clone https://github.com/your-repo.git`
+1. Clone the repository: `git clone https://github.com/DECOY-community/flexpro`
 2. Navigate to the mobile directory: `cd mobile`
 3. Install dependencies: `npm install`
 4. Start the development server: `npm start`
 5. Follow the instructions to run the app on an emulator or physical device using Expo.
+6. The UI/UX design on figma : `https://www.figma.com/file/KItLKTAMTI6NGuBL9AFvmy/FLEXpro-Prototype?type=design&node-id=0%3A1&mode=design&t=pWOXiBxWMrWWPXvX-1`
 
 ## Contributing
 
