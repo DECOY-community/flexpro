@@ -71,7 +71,7 @@ FLEXPRO is licensed under the [MIT License](LICENSE), allowing for flexibility a
 
 ## Contact
 
-For any inquiries or further information, feel free to contact the DECOY community at [decoy@studentsociety.com](mailto:decoy@studentsociety.com).
+For any inquiries or further information, feel free to contact the DECOY community at [decoy.reach@gmail.com](mailto:decoy.reach@gmail.com).
 
 ---
 
